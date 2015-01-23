@@ -1,0 +1,13 @@
+{
+  "name": "blog",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "ejs": "2.2.2",
+    "express": "4.11.1",
+    "mongoose": "3.8.21"
+  }
+}
